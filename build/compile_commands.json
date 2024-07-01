@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/luzihao01/Desktop/leetcode_third_try/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/leetcode_third_try.dir/main.cpp.o -c /Users/luzihao01/Desktop/leetcode_third_try/main.cpp",
+  "file": "/Users/luzihao01/Desktop/leetcode_third_try/main.cpp",
+  "output": "CMakeFiles/leetcode_third_try.dir/main.cpp.o"
+}
+]

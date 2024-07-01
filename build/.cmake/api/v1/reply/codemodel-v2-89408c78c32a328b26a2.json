@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "leetcode_third_try::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-leetcode_third_try-Debug-53e38a6b77bdd966c516.json",
+					"jsonFile" : "target-leetcode_third_try-Debug-11ddb50f1ec02c8a5b52.json",
 					"name" : "leetcode_third_try",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/luzihao01/CLionProjects/leetcode_third_try/cmake-build-debug",
-		"source" : "/Users/luzihao01/CLionProjects/leetcode_third_try"
+		"build" : "/Users/luzihao01/Desktop/leetcode_third_try/build",
+		"source" : "/Users/luzihao01/Desktop/leetcode_third_try"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 6
+		"minor" : 7
 	}
 }
